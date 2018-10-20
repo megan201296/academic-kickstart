@@ -188,8 +188,8 @@ enableGitInfo = false
   #   translated.
   publication_types = [
     'Uncategorized',  # 0
-    'Conference paper',  # 1
-    'Journal article',  # 2
+    'Blog Post',  # 1
+    'Podcast',  # 2
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
