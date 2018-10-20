@@ -23,12 +23,27 @@ weight = 5
   year = 2018
 
 [[education.courses]]
+  course = "GIAC Certified Forensic Analyst"
+  institution = "Global Information Assurance Certification"
+  year = 2018
+
+[[education.courses]]
+  course = "GIAC Certified Incident Handler"
+  institution = "Global Information Assurance Certification"
+  year = 2017
+
+[[education.courses]]
+  course = "Network+"
+  institution = "CompTIA"
+  year = 2017
+
+[[education.courses]]
   course = "BS in Mathematics"
   institution = "Sam Houston State University"
   year = 2015
- 
+
 +++
 
 # Biography
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
