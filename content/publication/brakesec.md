@@ -4,7 +4,7 @@ date = 2018-04-04T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen", "MS Nixon"]
+authors = ["Megan Roddie", "Bryan Brake", "Brian Boettcher", "Amanda Berlin"]
 
 # Publication type.
 # Legend:
@@ -44,7 +44,7 @@ tags = ["neurodiversity","infosec"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Podcast Episode", url = "http://traffic.libsyn.com/brakeingsecurity/2018-011.mp3"}]
+url_custom = [{name = "Recording", url = "http://traffic.libsyn.com/brakeingsecurity/2018-011.mp3"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
