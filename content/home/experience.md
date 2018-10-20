@@ -23,9 +23,9 @@ date_format = "January 2006"
   company = "Recon InfoSec"
   company_url = "https://reconinfosec.com"
   location = "Texas"
-  date_start = "2018-05-01"
+  date_start = "2017-02-15"
   date_end = ""
-  description = """ 
+  description = """
   Lorem Ipsum
   """
 
