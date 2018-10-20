@@ -291,8 +291,8 @@ enableGitInfo = false
 
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Blog Posts & Podcasts"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]

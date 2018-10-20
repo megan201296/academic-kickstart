@@ -2,7 +2,7 @@
 # Recent Publications widget.
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Recent Publications"
@@ -25,8 +25,8 @@ list_format = 4
 # Filter by publication type.
 # -1: Any
 #  0: Uncategorized
-#  1: Conference proceedings
-#  2: Journal
+#  1: Blog
+#  2: Podcast
 #  3: Work in progress
 #  4: Technical report
 #  5: Book
@@ -36,4 +36,3 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
-
