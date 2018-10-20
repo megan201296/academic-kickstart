@@ -285,9 +285,10 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Talks"
+  url = "#talks"
   weight = 2
+
 
 [[menu.main]]
   name = "Posts"
