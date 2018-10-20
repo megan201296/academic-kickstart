@@ -1,5 +1,5 @@
 +++
-title = ""Strengthen Your SecOps Team by Leveraging NeuroDiversity""
+title = "Strengthen Your SecOps Team by Leveraging Neurodiversity"
 date = 2017-08-29T00:00:00-05:00
 draft = false
 location = "Las Vegas, NV"
