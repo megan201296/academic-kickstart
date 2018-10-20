@@ -40,19 +40,11 @@ projects = []
 tags = ["neurodiversity","infosec"]
 
 # Links (optional).
-url_pdf = "#"
-url_preprint = "#"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_mp3 = [{name = "Podcast Episode", url = "http://traffic.libsyn.com/brakeingsecurity/2018-011.mp3"}]
+url_custom = [{name = "Podcast Episode", url = "http://traffic.libsyn.com/brakeingsecurity/2018-011.mp3"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
