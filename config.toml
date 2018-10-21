@@ -224,7 +224,7 @@ enableGitInfo = false
     #   0 = Simple
     #   1 = Detailed
     #   2 = Stream
-    talk_format = 1
+    talk_format = 2
 
   # Social/Academic Networking
   #
