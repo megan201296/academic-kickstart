@@ -1,5 +1,5 @@
 +++
-title = "[PODCAST] Application Security Podcast: Neurodiversity in Security"
+title = "Application Security Podcast: Neurodiversity in Security"
 date = 2018-05-15T00:00:00
 draft = false
 
@@ -44,7 +44,7 @@ tags = ["neurodiversity","infosec"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Recording", url = "https://www.securityjourney.com/blog/neurodiversity-in-security-s03e17-application-security-podcast/"}]
+url_custom = [{name = "Podcast Recording", url = "https://www.securityjourney.com/blog/neurodiversity-in-security-s03e17-application-security-podcast/"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

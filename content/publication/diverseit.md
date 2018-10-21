@@ -1,5 +1,5 @@
 +++
-title = "[PODCAST] DiverseIT: Why Are You Telling Us What We Should And Should Not Call Ourselves?"
+title = "DiverseIT: Why Are You Telling Us What We Should And Should Not Call Ourselves?"
 date = 2018-07-09T00:00:00
 draft = false
 
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "ITSP Magazine"
-publication_short = "ITSP"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Megan Roddie, Senior Security Analyst at Recon InfoSec, LLC, chats with Selena Templeton, host of Diverse IT on ITSPmagazine, about her personal experiences as someone with Asperger’s Syndrome working in cybersecurity and how companies can be more inclusive towards neurodiverse folks."
@@ -44,7 +44,7 @@ tags = ["neurodiversity","infosec"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Recording", url = "https://www.itspmagazine.com/itsp-chronicles/why-are-you-telling-us-what-we-should-and-should-not-call-ourselves"}]
+url_custom = [{name = "Podcast Recording", url = "https://www.itspmagazine.com/itsp-chronicles/why-are-you-telling-us-what-we-should-and-should-not-call-ourselves"}]
 
 # Digital Object Identifier (DOI)
 doi = ""

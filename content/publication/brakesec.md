@@ -1,5 +1,5 @@
 +++
-title = "[PODCAST] Brakeing Down Security: Creating a Culture of Neurodiversity"
+title = "Brakeing Down Security: Creating a Culture of Neurodiversity"
 date = 2018-04-04T00:00:00
 draft = false
 
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Brakeing Down Security"
-publication_short = "BrakeSec"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "Megan Roddie discusses being a High functioning Autistic, and we discuss how company and management can take advantage of the unique abilities of those with high functioning autism."
@@ -44,7 +44,7 @@ tags = ["neurodiversity","infosec"]
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Recording", url = "http://traffic.libsyn.com/brakeingsecurity/2018-011.mp3"}]
+url_custom = [{name = "Podcast Recording", url = "http://traffic.libsyn.com/brakeingsecurity/2018-011.mp3"}]
 
 # Digital Object Identifier (DOI)
 doi = ""
