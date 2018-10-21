@@ -16,7 +16,7 @@ abstract = "Graylog is a open-source log aggregation platform that is quickly ga
 abstract_short = "A talk about how to leverage Graylog as a SIEM."
 
 # Name of event and optional event URL.
-event = "BSidesDFW 2018""
+event = "BSidesDFW 2018"
 event_url = "http://www.securitybsides.com/w/page/126808166/DFW_2018"
 
 # Location of event.
