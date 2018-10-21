@@ -1,6 +1,6 @@
 +++
 title = "Gray(log) is the New Black"
-date = 2018-11-03T00:00:00 # Schedule page publish date.
+date = 2018-10-19T00:00:00 # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
