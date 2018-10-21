@@ -1,5 +1,5 @@
 +++
-title = "ITSP Magazine: Why Are You Telling Us What We Should And Should Not Call Ourselves?"
+title = "[PODCAST] DiverseIT: Why Are You Telling Us What We Should And Should Not Call Ourselves?"
 date = 2018-07-09T00:00:00
 draft = false
 
