@@ -1,0 +1,3 @@
+[submodule "themes/academic"]
+	path = themes/academic
+	url = https://github.com/megan201296/academic-kickstart-1
