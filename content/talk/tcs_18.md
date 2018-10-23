@@ -5,7 +5,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-06-16T00:00:00
+time_start = 2018-10-13T00:00:00
 # time_end = 2030-06-01T15:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -16,8 +16,8 @@ abstract = "With the current standard of companies transitioning to the cloud, d
 abstract_short = "A talk about performing digital forensics and incident response in G Suite."
 
 # Name of event and optional event URL.
-event = "BSidesSATX 2018"
-event_url = "http://www.bsidessatx.com/"
+event = "Texas Cyber Summit 2018"
+event_url = "https://www.texascybersummit.org/"
 
 # Location of event.
 location = "San Antonio, TX"
@@ -35,12 +35,12 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["digital forensics", "g suite", "incident response", "infosec"]
+tags = ["neurodiversity", "infosec"]
 
 # Links (optional).
 url_pdf = ""
 url_slides = ""
-url_video = "https://www.youtube.com/watch?v=pGn95-L8_sA&index=5&list=PLkEvzMtDFvPHy13C-l3DA8HZIfjzqSgWS"
+url_video = ""
 url_code = ""
 
 # Does the content use math formatting?
