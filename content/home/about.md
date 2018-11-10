@@ -46,4 +46,4 @@ weight = 5
 
 # Biography
 
-Security Analyst at Recon InfoSec. Education background in Digital Forensics. Specializing in Security Operations, SIEM Operations, and Incident Response.
+Security Analyst at Recon InfoSec. Educational background in Digital Forensics. Currently specializing in Security Operations, SIEM Operations, and Incident Response.

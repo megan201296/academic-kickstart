@@ -25,9 +25,7 @@ date_format = "January 2006"
   location = "Texas"
   date_start = "2017-02-15"
   date_end = ""
-  description = """
-  Lorem Ipsum
-  """
+  description = """ """
 
 [[experience]]
   title = "Cyber Security Analyst I"
@@ -36,6 +34,6 @@ date_format = "January 2006"
   location = "Texas"
   date_start = "2016-09-15"
   date_end = "2018-04-28"
-  description = """Lorem Ipsum"""
+  description = """ """
 
 +++

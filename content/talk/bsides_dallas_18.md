@@ -39,7 +39,7 @@ tags = ["graylog", "infosec", "SIEM"]
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "https://www.slideshare.net/MeganRoddie/graylog-is-the-new-black?qid=7d0f6de1-6cab-4d9b-a184-90405cd80bee&v=&b=&from_search=2"
 url_video = ""
 url_code = ""
 
