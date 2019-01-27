@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = "https://reconinfosec.com"
   location = "Texas"
   date_start = "2017-02-15"
-  date_end = ""
+  date_end = "2018-12-17"
   description = """ """
 
 [[experience]]
